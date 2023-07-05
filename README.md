@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/AnuththaraBasnayaka)
-<br>
+
 ### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <h1 align="center">Hi 👋, I'm Anuththara Basnayaka</h1>
 <h3 align="center">I am Undergraduate At SLIIT</h3>
